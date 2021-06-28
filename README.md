@@ -1,1 +1,1 @@
-# gitskills
+1PortableApps/BalabolkaPortable/App/Balabolka/languages/Ukrainian.lng
